@@ -1,0 +1,16 @@
+filename = 'wandering_ribbit-2.0.0-forge-1.20.1.jar'
+name = 'Wandering Ribbit'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f3f68657ad4f78c73c2507128388ed76a791ecb460bad4d131f54a8e898a5629a6e04c0065efd11bee81ea0320ffb6439223669b0ba8a9e95200087c4ddbf40c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qYSYk2ef/versions/dSQyRy85/wandering_ribbit-2.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'qYSYk2ef'
+version = 'dSQyRy85'

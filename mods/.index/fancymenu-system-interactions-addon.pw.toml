@@ -1,0 +1,16 @@
+filename = 'fmsia_forge_1.0.1_MC_1.20.1.jar'
+name = 'FancyMenu System Interactions Addon'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '677be3b9e5258c48b2eee8db1a37d5e7ae838cfb02749c1d319baacfefa7dc3e3fb2005b1311034659df846f7d060632baa45fceda7f44ad130aa02e339989c3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/i9oIemgf/versions/pfk4Tavr/fmsia_forge_1.0.1_MC_1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'i9oIemgf'
+version = 'pfk4Tavr'

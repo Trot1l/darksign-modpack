@@ -1,0 +1,16 @@
+filename = 'wilderness-0.2.0.jar'
+name = 'Wilderness'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'de2149603e0508e309fe32dbe8fe4f19d19114791765a50c08b652464781fca8cb34b52784ed3b1642e1e216bdcc4dda2aa4e756e35e131cdd701a501346d410'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/w4h9Qxh0/versions/q62FW0Bq/wilderness-0.2.0.jar'
+
+[update.modrinth]
+mod-id = 'w4h9Qxh0'
+version = 'q62FW0Bq'

@@ -1,0 +1,16 @@
+filename = 'DynamicTreesMoreAppleTrees-1.20-1.20.1-1.0.jar'
+name = 'Dynamic Trees - More Apple Trees'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b9a1d77d516609f42cfe757dcbaecc1c8c13b0b3fc9f9b7b4559d8eed7fbe909cf20001c6f07f22ffd4e049301fc6d1a69e2d289989cfbbd443bb48c0e75c55'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ojo8mD5E/versions/TRN3YHLP/DynamicTreesMoreAppleTrees-1.20-1.20.1-1.0.jar'
+
+[update.modrinth]
+mod-id = 'Ojo8mD5E'
+version = 'TRN3YHLP'

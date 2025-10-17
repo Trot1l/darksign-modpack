@@ -1,0 +1,16 @@
+filename = 'rexlesoverworldoverhaul.jar'
+name = "Rexle's better Overworld"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7e3d044f28fdd135a147a715b9066e7a013821f1da2b9c5572d304a452c384eedc9fce69f6a535db32857ee7affd83a2c5c2fe09a74d16b651e75a66f1cecb1a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y7l6zHi3/versions/k5WZQjFm/rexlesoverworldoverhaul.jar'
+
+[update.modrinth]
+mod-id = 'Y7l6zHi3'
+version = 'k5WZQjFm'

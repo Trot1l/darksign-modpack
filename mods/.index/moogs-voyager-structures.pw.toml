@@ -1,0 +1,16 @@
+filename = 'MoogsVoyagerStructures-1.20-5.0.1.jar'
+name = "Moog's Voyager Structures"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a8c26eef422f574774a5bf737cd0c589fe136b04b8b49c3df85ceba0a6c9b3d98abbcfa7e5505150c070bdc6b2be28c6684f217e4857f6574eb808e1321ab4fb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OQAgZMH1/versions/hFybik9s/MoogsVoyagerStructures-1.20-5.0.1.jar'
+
+[update.modrinth]
+mod-id = 'OQAgZMH1'
+version = 'hFybik9s'

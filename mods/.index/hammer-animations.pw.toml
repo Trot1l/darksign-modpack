@@ -1,0 +1,16 @@
+filename = 'HammerAnimations-1.20.1-20.1.38.jar'
+name = 'HammerAnimations'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd62dba0b80f04cfe02c0432fd3f84d5db80a821fc29abc7c0c19fdeed886ddcf8388679523516c2f25d743a1a3d0e5621bb8ea39f3b141e42cac00b1248cccf8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C7cTlgwS/versions/4ov8XvGQ/HammerAnimations-1.20.1-20.1.38.jar'
+
+[update.modrinth]
+mod-id = 'C7cTlgwS'
+version = '4ov8XvGQ'

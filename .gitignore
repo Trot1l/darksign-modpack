@@ -1,0 +1,10 @@
+*.json
+saves/
+.mixin.out/
+screenshots/
+*png
+logs/
+fancymenu_data/
+data/
+crash-reports/
+cosmetics/

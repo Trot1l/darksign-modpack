@@ -1,0 +1,16 @@
+filename = 'polytone-1.20-3.5.9.jar'
+name = 'Polytone'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3c3ed9ec3a0b126c4841dcb8b7331831adc01defaccaa2fbde2a261622fa7b1f6130f89e13818c8d6a2e91a39aa63f7cf638173cc03549e93bf689ec3b3d0b21'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3qAYkBMB/versions/PQr53FIb/polytone-1.20-3.5.9.jar'
+
+[update.modrinth]
+mod-id = '3qAYkBMB'
+version = 'PQr53FIb'
