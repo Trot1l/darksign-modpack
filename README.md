@@ -18,4 +18,4 @@
 
 ### This modpack adds TONS of bosses, like dragons, mages, and some of the bosses has they're own cut scene, and some of them just spawns
 
-#The modpack is FULLY FREE and OPEN-SOURCE, so if you want to make video about this modpack, just add link in the description, and thats all.#
+The modpack is FULLY FREE and OPEN-SOURCE, so if you want to make video about this modpack, just add link in the description, and thats all.
